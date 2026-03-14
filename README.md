@@ -73,8 +73,7 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=AddyKhan257&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=My+GitHub+Activity+%26+Streak" />
-
+<img width="70%" src="https://streak-stats.demolab.com/?user=AddyKhan257&theme=tokyonight&hide_border=true&dates=A78BFA&ring=6e40c9&fire=ff6b6b&currStreakLabel=A78BFA" />
 </div>
 
 ---
