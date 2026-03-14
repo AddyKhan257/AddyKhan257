@@ -74,14 +74,25 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 <div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=AddyKhan257&theme=tokyonight&hide_border=true&dates=A78BFA&ring=6e40c9&fire=ff6b6b&currStreakLabel=A78BFA" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=AddyKhan257&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15](https://github-profile-trophy.vercel.app/?username=AddyKhan257&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4)" />
+
+| 🎯 Milestone | ✅ Status |
+|---|---|
+| Started 90DaysOfDevOps Challenge | ✅ Done |
+| Dockerized full-stack Todo App | ✅ Done |
+| Built first GitHub Actions Pipeline | ✅ Done |
+| 11 Day GitHub Streak | ✅ Done |
+| 100+ GitHub Contributions | ✅ Done |
+| Kubernetes Project | 🔄 In Progress |
+| AWS Deployment | 🔜 Coming Soon |
+
 </div>
 
 ---
