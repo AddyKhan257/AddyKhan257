@@ -27,12 +27,12 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 ---
 
 ## 🚀 My DevOps Journey
-
 ```
 🗓️ Day 01  →  Started 90DaysOfDevOps Challenge
 🐧 Day 10  →  Mastered Linux basics
 🐳 Day 36  →  Dockerized a full-stack Todo App (React + Node.js + MySQL)
 📄 Day 38  →  YAML Basics for CI/CD pipelines
+⚙️ Day 40  →  Built first GitHub Actions CI/CD pipeline
 🔥 Day ??  →  YOU ARE HERE — watching me grow!
 ```
 
@@ -73,7 +73,7 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=AddyKhan257&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=AddyKhan257&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=My+GitHub+Activity+%26+Streak" />
 
 </div>
 
@@ -107,6 +107,7 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 | Project | Description | Tech |
 |---|---|---|
 | [📝 Todo App](https://github.com/AddyKhan257/To-Do-App) | Full-stack Dockerized Todo App | React, Node.js, MySQL, Docker |
+| [⚙️ GitHub Actions Practice](https://github.com/AddyKhan257/github-actions-practice) | First CI/CD pipeline | GitHub Actions, YAML |
 | [🐳 90DaysOfDevOps](https://github.com/AddyKhan257/90DaysOfDevOps) | Daily DevOps learning journey | Docker, Linux, YAML, K8s |
 | [🐍 Python for DevOps](https://github.com/AddyKhan257/python_for_devops) | Python scripts for DevOps tasks | Python |
 
