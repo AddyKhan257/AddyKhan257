@@ -160,6 +160,6 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 
 <img src="https://komarev.com/ghpvc/?username=AddyKhan257&label=Profile%20Views&color=6e40c9&style=for-the-badge" />
 
-**💡 "Every expert was once a beginner. Keep building, keep breaking, keep learning!"**
+**💡 "Every expert was once a beginner. Keep building, keep breaking, keep "**
 
 </div>
