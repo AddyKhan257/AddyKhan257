@@ -27,12 +27,15 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 ---
 
 ## 🚀 My DevOps Journey
+
 ```
 🗓️ Day 01  →  Started 90DaysOfDevOps Challenge
 🐧 Day 10  →  Mastered Linux basics
 🐳 Day 36  →  Dockerized a full-stack Todo App (React + Node.js + MySQL)
 📄 Day 38  →  YAML Basics for CI/CD pipelines
 ⚙️ Day 40  →  Built first GitHub Actions CI/CD pipeline
+☸️ Day ??  →  Kubernetes — In Progress
+☁️ Day ??  →  AWS Deployment — Coming Soon
 🔥 Day ??  →  YOU ARE HERE — watching me grow!
 ```
 
@@ -66,32 +69,59 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AddyKhan257&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddyKhan257&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AddyKhan257&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddyKhan257&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=AddyKhan257&theme=tokyonight&hide_border=true&dates=A78BFA&ring=6e40c9&fire=ff6b6b&currStreakLabel=A78BFA" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AddyKhan257&theme=tokyonight&hide_border=true&dates=A78BFA&ring=6e40c9&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA&sideNums=ffffff&currStreakNum=ffffff&stroke=6e40c9&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AddyKhan257&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AddyKhan257&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AddyKhan257&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AddyKhan257&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AddyKhan257&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+## 🎯 Achievements
 
 <div align="center">
 
 | 🎯 Milestone | ✅ Status |
 |---|---|
 | Started 90DaysOfDevOps Challenge | ✅ Done |
+| Mastered Linux Basics | ✅ Done |
 | Dockerized full-stack Todo App | ✅ Done |
 | Built first GitHub Actions Pipeline | ✅ Done |
-| 11 Day GitHub Streak | ✅ Done |
 | 100+ GitHub Contributions | ✅ Done |
+| 389 Contributions in Last Year | ✅ Done |
+| 15+ Day GitHub Streak | ✅ Done |
 | Kubernetes Project | 🔄 In Progress |
 | AWS Deployment | 🔜 Coming Soon |
+| Terraform IaC | 🔜 Coming Soon |
 
 </div>
 
@@ -100,7 +130,7 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AddyKhan257&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AddyKhan257&theme=tokyo-night&hide_border=true&area=true&area_color=6e40c9&color=A78BFA&line=6e40c9&point=ffffff&custom_title=Mohammad%20Adnan%20Khan's%20Contribution%20Graph" />
 </div>
 
 ---
@@ -109,14 +139,19 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 
 <div align="center">
 
-[![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=AddyKhan257&repo=To-Do-App&theme=tokyonight&hide_border=true)](https://github.com/AddyKhan257/To-Do-App)
-[![90DaysOfDevOps](https://github-readme-stats.vercel.app/api/pin/?username=AddyKhan257&repo=90DaysOfDevOps&theme=tokyonight&hide_border=true)](https://github.com/AddyKhan257/90DaysOfDevOps)
+[![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=AddyKhan257&repo=To-Do-App&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/AddyKhan257/To-Do-App)
+[![90DaysOfDevOps](https://github-readme-stats.vercel.app/api/pin/?username=AddyKhan257&repo=90DaysOfDevOps&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/AddyKhan257/90DaysOfDevOps)
+[![FoodRush](https://github-readme-stats.vercel.app/api/pin/?username=AddyKhan257&repo=FoodRush&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/AddyKhan257/FoodRush)
+[![Restaurant App](https://github-readme-stats.vercel.app/api/pin/?username=AddyKhan257&repo=Restaurant-app&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/AddyKhan257/Restaurant-app)
 
 </div>
 
 | Project | Description | Tech |
 |---|---|---|
 | [📝 Todo App](https://github.com/AddyKhan257/To-Do-App) | Full-stack Dockerized Todo App | React, Node.js, MySQL, Docker |
+| [🍔 FoodRush](https://github.com/AddyKhan257/FoodRush) | Food delivery app | JavaScript |
+| [🍽️ Restaurant App](https://github.com/AddyKhan257/Restaurant-app) | Restaurant management app | Python |
+| [🛒 Shopkart DevOps](https://github.com/AddyKhan257/shopkart-devops) | E-commerce with DevOps pipeline | HTML, Docker |
 | [⚙️ GitHub Actions Practice](https://github.com/AddyKhan257/github-actions-practice) | First CI/CD pipeline | GitHub Actions, YAML |
 | [🐳 90DaysOfDevOps](https://github.com/AddyKhan257/90DaysOfDevOps) | Daily DevOps learning journey | Docker, Linux, YAML, K8s |
 | [🐍 Python for DevOps](https://github.com/AddyKhan257/python_for_devops) | Python scripts for DevOps tasks | Python |
@@ -160,6 +195,6 @@ I'm a **Computer Science Engineering** student in my **6th semester** at **Rajiv
 
 <img src="https://komarev.com/ghpvc/?username=AddyKhan257&label=Profile%20Views&color=6e40c9&style=for-the-badge" />
 
-**💡 "Every expert was once a beginner. Keep building, keep breaking, keep learning! "**
+**💡 "Every expert was once a beginner. Keep building, keep breaking, keep learning!"**
 
 </div>
